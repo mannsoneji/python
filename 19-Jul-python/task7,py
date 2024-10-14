@@ -1,0 +1,12 @@
+#accept 5 numbers from user and then find even odd andcalculate even and odd sum
+evensum=0
+oddsum=0
+for i in range(1,6):
+    num = int(input("Enter the number = ")) 
+    if num%2==0:
+        evensum += num
+    else:
+        oddsum += num
+        
+print("Even sum =",evensum)
+print("odd sum =",oddsum)

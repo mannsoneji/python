@@ -1,0 +1,105 @@
+for crack ninterviews this is the simple trick to for evry topic
+
+what is function ?
+why we use function ?
+when we use function ?
+how to use function ?
+
+what is function ?  :   fucntion is a block of code that code can be used again again
+
+        using function we can reduce our work
+
+why we use function ? 
+
+        using of fucntion can reduce our code and it sve time so, devlopment becane easier and faster
+
+when we use function ?
+
+        wehn we want to devlop complex project at that time we divide code in different diffferent section in the form of function 
+
+how to use function ?
+
+    to use function in python we have to use inbuilt keywords - different
+
+    using of def keyword we can define fuction.
+
+    e.g., def funname()
+                statement
+
+
+--------------------------------------------------------------------
+
+types of fucntions
+
+there are mainly 2 type of functions 
+
+1) built - in function : print() , len() , input()
+
+2) user defined fuction : which is defined by user
+
+
+
+========================================================================
+
+fucntion categories : 
+
+there is 4 type of categories
+
+1) fucntion without parameteres and fucntion without return type.
+2) fucntion with parameteres and fucntion without return type.
+3) fucntion without parameteres and fucntion with return type.
+4) fucntion with parameteres and fucntion with return type.
+
+
+1) fucntion without parameteres and fucntion without return type.
+
+        syntax :
+            def <funname>:
+                block of code
+
+2) fucntion with parameteres and fucntion without return type.
+
+        syntax :
+            def <funname>(parameters):
+                block of code
+
+3) fucntion without parameteres and fucntion with return type.
+
+        syntax:
+
+
+
+
+4) fucntion with parameteres and fucntion with return type.
+
+
+
+
+
+
+
+=======================================================================================
+
+
+* args and **kwargs :
+
+*args = arguments (tuple as a parameter)
+
+**kwargs = key with arguments (dictionary as a arguments)
+
+
+
+
+
+
+------------------------------------------------------------------------------------
+
+lambda function = lambda is a keyword which is use to define lambda fuction  
+
+                lambada function is a anonymous function 
+
+                means function without any name its called lambda function
+
+                syntax : 
+
+                var lambda arguments : body

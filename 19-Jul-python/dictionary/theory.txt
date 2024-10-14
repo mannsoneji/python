@@ -1,0 +1,13 @@
+dictionary is similar like map in python collection.
+
+dictionary which is represent by key and value in a pair.
+
+e.g., dicationaryname = {
+    key : value,
+    key : value,
+    key : value,
+    key : value,
+    .
+    .
+    .
+}

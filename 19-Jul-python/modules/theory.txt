@@ -1,0 +1,16 @@
+exception -- which disturb a normal flow of program is called exception
+
+using of try and except block we can handle exceptions 
+
+exception handling means to handle such kind of exception in program
+
+
+syntax : 
+
+
+try:
+
+    // error code
+
+except:
+    // msg handle exceptions

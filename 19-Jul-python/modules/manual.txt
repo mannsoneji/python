@@ -1,0 +1,4 @@
+name : niravname : mannname : mMNN\
+ age : 21
+ gender : femlae
+ email : okncokwenf
