@@ -1,0 +1,7 @@
+Hello my name is Mann Soneji.
+I hope you all doing well.
+This is python file for reading.
+welcome to the python.
+Python is a easiest language.
+This is a new line in file that added from Q-3 
+This line appended to a file

@@ -1,0 +1,4 @@
+Hello, world!
+Python is awesome.
+Random line selection from this file.
+Let's code more.
