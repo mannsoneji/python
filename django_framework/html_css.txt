@@ -1,0 +1,107 @@
+HTML : hyper text markup language
+
+html is contain tags
+
+there are 2 types of tags
+
+1) singular tags
+2) paired tags
+
+=> there are only 3 singular tags
+
+<br>
+<hr>
+<img>
+
+=> paired tage : which come with opening and closing tage
+
+        e.g. <opemingtag> ... content goes here </closingtag>
+
+--------------------------------------------------------------------------------------
+heading tags:
+
+<h1> ...</h1>
+.
+.
+<h6>...</h6>
+--------------------------------------------------------------------------------------
+paragraph tag
+
+which is represent by <p> tag
+
+--------------------------------------------------------------------------------------
+
+Formating Elements :
+
+<b> : bold
+<i> : italic
+<u> : underline
+<sup> : superscript
+<sub> : subscript
+<mark> : Highlight
+<del> : delete
+<var> : for math or programming purpuse
+
+
+--------------------------------------------------------------------------------------
+
+
+entities : 
+
+&nbsp; non breaking space 
+
+&lt; less then
+
+&lt; greater then
+
+
+--------------------------------------------------------------------------------------
+
+
+list in HTML : 
+
+There are mainly types of list :
+
+1) order list
+2) unorder list
+3) description list
+
+unorderlist which is represent by <ul> tag 
+
+
+<li> list of item 
+
+--------------------------------------------------------------------------------------
+
+dl : Which is used to represent as description 
+
+dt : description tag
+
+dd : description details
+
+--------------------------------------------------------------------------------------
+
+table tag : 
+
+
+CSS : Cascading Style Sheet 
+
+There are mailnly 3 types of css  -
+
+1) Inline CSS
+2) Internal CSS
+3) External CSS
+
+
+inline CSS syntax : style = "Property : value"
+internal CSS : Which is apply for specific webpage 
+                
+                using of <style> tag we can use internal CSS
+
+                it contains different type of selectors - 
+
+                1) Elements Selector 
+                2) Class Selectors 
+                3) ID Selectors 
+                4) Universal Selectors 
+

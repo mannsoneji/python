@@ -1,0 +1,107 @@
+Django : Django is a most powerfull web framework
+        Which is written in python programming
+
+        Django is secure and speedy web framework which is mainly design for rapid application development 
+
+        Django supports MVT Architectures 
+
+        MVT : stands for Model Views and Templates 
+
+        Django Supports ORM patterns
+
+        ORM : Stands for Object relationa mapper
+
+        that means django support ORM not SQL type queries
+
+
+steps to create project in django web framework
+
+--> visit specific directory location open in cmd
+
+step-1 : Install virtual env
+
+        # pip install virtualenv
+
+        if already install ignore it 
+
+Step-2 : Create virtualenv
+
+        # python -m venv envname
+
+step-3 : go into env and activate
+
+        # cd envname
+        #Scripts\activate
+
+step-4 : install django web framework
+
+        #pip install django
+
+step-5 : create django project
+
+        # django-admin startproject <projctaname>
+
+Step-6 : create your app
+
+        # cd projectname
+
+        # python manage.py startapp myapp
+
+step-7 : to check your server and run your server 
+
+        # python manage.py runserver
+
+then go to my project  ---> my proejct --> setting.py --> installapp : add your app name
+
+then copy urls.py from my proejct and paste it into myapp
+
+
+
+
+
+
+whenever we perform any changes in database realated perform bellow commands
+
+this command create script of created models
+# python manage.py makemigrations
+
+this command execute that models
+# python manage.py migarte
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------
+
+steps for reopen project
+
+step-1 : open myenv in cmd
+
+step-2 : Scripts\activate
+
+step-3 : cd prjectname
+
+step-4 : python manage.py runserver
+
+
+--------------------------------------
+
+admin creation : 
+
+python manage.py createsuperuser
+
+username : mann
+email : mann@gmail.com
+password : 123456789
+
+---------------------------------------------------------
+
+
+
+
+
+
